@@ -1,0 +1,10 @@
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\bin\Debug\OddNumberSum_Yeneza.exe.config
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\bin\Debug\OddNumberSum_Yeneza.exe
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\bin\Debug\OddNumberSum_Yeneza.pdb
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\bin\Debug\OddNumberSum_Yeneza.xml
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\obj\Debug\OddNumberSum_Yeneza.Form1.resources
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\obj\Debug\OddNumberSum_Yeneza.Resources.resources
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\obj\Debug\OddNumberSum_Yeneza.vbproj.GenerateResource.Cache
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\obj\Debug\OddNumberSum_Yeneza.exe
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\obj\Debug\OddNumberSum_Yeneza.xml
+H:\GitHub\OddNumberSum_Yeneza\OddNumberSum_Yeneza\obj\Debug\OddNumberSum_Yeneza.pdb
